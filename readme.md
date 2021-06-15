@@ -25,16 +25,16 @@ NDL-ImageTagデータセット(ver1.0)の内訳は以下のとおりです。
 
 
   |ラベル名                   | 画像数
-  |-------------------|----------
-  |graphic_map    |581画像
-  |graphic_graph    |371画像
-  |graphic_illustcolor    |170画像
-  |graphic_illust    |2,695画像
-  |picture_landmark    |728画像
-  |picture_outdoor    |748画像
-  |picture_object   |401画像
-  |屋内で撮影されたその他の写真(picture_indoor)    |232画像
-  |印影(stamp)    |479画像
+  |---------------------|----------
+  |graphic_map          |581画像
+  |graphic_graph        |371画像
+  |graphic_illustcolor  |170画像
+  |graphic_illust       |2,695画像
+  |picture_landmark     |728画像
+  |picture_outdoor      |748画像
+  |picture_object       |401画像
+  |picture_indoor       |232画像
+  |stamp                |479画像
 
 合計 6,405画像
 
@@ -94,6 +94,7 @@ NDL-ImageTagデータセットに含まれる画像は、1画像につき1つの
 のコマ番号190に含まれる最初の画像を意味します。
 
 **metadata.csvの記載内容**
+
 metadata.csvは、画像の出典となった資料のタイトルや当該資料のデジコレにおけるURL等の情報を含んでいます。
 より詳細なメタデータが必要な場合には、次項の「PIDと資料名の対応表」を参考にしてください。
 
