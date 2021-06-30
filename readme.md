@@ -1,4 +1,4 @@
-NDL-ImageLabelデータセット （画像ラベル付けデータセット）
+NDL-ImageLabelデータセット （ラベル付画像データセット）
 ==================
 
 ## データセットの概要
@@ -164,7 +164,7 @@ NDL-ImageLabelデータセットに含まれる画像は、1画像につき1つ�
 <br/>picture_landmarkの画像例</td>
 </tr><tr>
 <td align="center" style="word-wrap:break-word;">
-<img alt="picture_objectの画像例" src="./sampleimg/picture_object/1055563_11_1.jpg" title="picture_objectの画像例"/>
+<img alt="picture_objectの画像例" src="./sampleimg/picture_object/1235003_24_0.jpg" title="picture_objectの画像例"/>
 <br/>picture_objectの画像例</td>
 <td align="center" style="word-wrap:break-word;">
 <img alt="picture_objectの画像例" src="./sampleimg/picture_object/1170764_155_0.jpg" title="picture_objectの画像例"/>
