@@ -6,7 +6,7 @@ NDL-ImageLabelデータセット （ラベル付画像データセット）
 NDL-ImageLabelデータセットは以下のURLから公開しています。<br/>
 現在(2021年6月)の最新バージョンは1.0です。<br/>
 
-(URLを入れる)
+http://lab.ndl.go.jp/dataset/imagetagdataset.zip
 
 
 1.概要
@@ -207,7 +207,7 @@ NDL-ImageLabelデータセットに含まれる画像は、1画像につき1つ�
 **ファイル命名規則**
 
 命名規則は
-(PID)_(コマ番号)_（同コマに含まれる0-indexの画像番号）
+(PID)\_(コマ番号)\_(同コマに含まれる0-indexの画像番号)
 となっています。
 例えば761290_190_0は、http://dl.ndl.go.jp/info:ndljp/pid/761290
 のコマ番号190に含まれる最初の画像を意味します。
